@@ -42,5 +42,7 @@ public class System_hospitalier {
         
         return "Cluster trouvé";
     }
-
+//analyser requete est appelee indiquant que la requete a ete analysee et la methode comaprerdonnes 
+//est appelee en idiquant qu'un cluster a ete trouver 
+//comparerdonne est egalement appelee a partir de recevoitrequete qui envoie une chaine de characteres indiquant que la requette est analysee
 }
